@@ -11,5 +11,5 @@ Important code pieces for pytorch in nlp
 + processing word2vec-form file
 
 + dataset dataloader
-
+  - [jupyter notebook](https://github.com/ThreeLiuThree/pytorch-alarm/blob/master/dataset_dataloader.ipynb)
 
